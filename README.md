@@ -6,8 +6,9 @@ Currently supported:
 - Symbolic differentiation (by [saltysylvi])
 - Tape-based reverse-mode algorithmic differentiation
 
-Support planned for:
+Planned features:
 - Forward-mode algorithmic differentiation
+- (Accurate) finite differencing
 
 [saltysylvi]: https://saltysylvi.github.io/blog/bqn-macros.html
 
